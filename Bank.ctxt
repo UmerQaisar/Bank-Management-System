@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bank
+comment1.params=
+comment1.target=Bank()
+comment10.params=ian
+comment10.target=void\ showInfo(int)
+comment2.params=
+comment2.target=void\ createSavingAccount()
+comment3.params=
+comment3.target=void\ createCurrentAccount()
+comment4.params=an
+comment4.target=User\ searchByAn(int)
+comment5.params=
+comment5.target=int\ returnAn()
+comment6.params=
+comment6.target=boolean\ logIn()
+comment7.params=dan
+comment7.target=boolean\ deposit(int)
+comment8.params=wan
+comment8.target=boolean\ withdraw(int)
+comment9.params=tan
+comment9.target=boolean\ transfer(int)
+numComments=11

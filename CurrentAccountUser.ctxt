@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CurrentAccountUser
+comment1.params=name\ an\ pin\ amount
+comment1.target=CurrentAccountUser(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=CurrentAccountUser()
+comment3.params=
+comment3.target=int\ getTransactionLimit()
+comment4.params=
+comment4.target=int\ getAmountLimit()
+comment5.params=
+comment5.target=void\ getAccountType()
+numComments=6
